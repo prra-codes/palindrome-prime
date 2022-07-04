@@ -31,7 +31,7 @@ function App() {
     let numToString = num2.toString(); // turns num to string
     let numArray = numToString.split(""); // puts in array
     let reversedNumArray = numArray.reverse(); //reverses array
-    let reversedStringNumber = reversedNumArray.join(""); //turns back to string
+    let reversedStringNumber = reversedNumArray.join(""); //turns back to a string
 
     if (reversedStringNumber === numToString) {
       return true; // if Palindrome, return true
