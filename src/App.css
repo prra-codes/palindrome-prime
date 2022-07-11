@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  font-size: 1.5rem;
+}
+
+p {
+  font-size: 2.5rem;
 }
 
 .inputs {
@@ -9,7 +14,8 @@
 
 .form--input {
   width: 45%;
-
+  /* padding: 20px; */
+  height: 40px;
   border-radius: 5px;
   border: 1px solid #d5d4d8;
   text-indent: 5px;

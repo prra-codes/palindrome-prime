@@ -79,7 +79,10 @@ function App() {
       <form onSubmit={handleSubmit}>
         <div className="inputs">
           <div>
-            <label>Minimum Number: </label>
+            <p>
+              {" "}
+              <label>Minimum Number: </label>
+            </p>
             <input
               type="number"
               value={minNum}
@@ -91,7 +94,9 @@ function App() {
             {/* parseInt to convert string to num and then save in state */}
           </div>
           <div>
-            <label>Maximum Number: </label>
+            <p>
+              <label>Maximum Number: </label>
+            </p>
             <input
               type="number"
               className="form--input"
