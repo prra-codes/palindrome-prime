@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/palindrome-prime/static/css/main.dd6a7faa.css",
+    "main.css": "/palindrome-prime/static/css/main.c568d883.css",
     "main.js": "/palindrome-prime/static/js/main.e094e4dd.js",
     "static/js/787.13efe428.chunk.js": "/palindrome-prime/static/js/787.13efe428.chunk.js",
     "index.html": "/palindrome-prime/index.html",
-    "main.dd6a7faa.css.map": "/palindrome-prime/static/css/main.dd6a7faa.css.map",
+    "main.c568d883.css.map": "/palindrome-prime/static/css/main.c568d883.css.map",
     "main.e094e4dd.js.map": "/palindrome-prime/static/js/main.e094e4dd.js.map",
     "787.13efe428.chunk.js.map": "/palindrome-prime/static/js/787.13efe428.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd6a7faa.css",
+    "static/css/main.c568d883.css",
     "static/js/main.e094e4dd.js"
   ]
 }
